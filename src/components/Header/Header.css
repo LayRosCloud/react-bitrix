@@ -1,0 +1,26 @@
+header{
+    text-align: center;
+    height: auto;
+    padding: 10px;
+    background: white;
+    box-shadow: 0 0 3px rgba(0,0,0,0.5);
+    align-items: center;
+    justify-content: center;
+}
+
+.logo{
+    margin: 0 auto;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.bitrix{
+    background: cornflowerblue;
+    color: white;
+    padding: 5px 15px;
+    margin-left: 5px;
+}
+.khakasiya{
+    padding: 5px 0;
+    cursor: pointer;
+}

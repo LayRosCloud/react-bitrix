@@ -1,0 +1,11 @@
+.card__task{
+    max-width: 30%;
+    margin-top: 15px;
+    border-radius: 15px;
+    padding: 10px;
+    cursor: pointer;
+    transition: 0.1s;
+}
+.card__task:hover{
+    background: #d7d7d7;
+}

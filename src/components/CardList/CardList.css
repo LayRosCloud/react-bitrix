@@ -1,0 +1,16 @@
+.container{
+    background: white;
+    margin-top: 15px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 3px rgba(0,0,0,0.5);
+}
+.container__content{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.header{
+    border-bottom: 2px solid cornflowerblue;
+    padding: 5px;
+}
